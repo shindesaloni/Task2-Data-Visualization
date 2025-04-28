@@ -1,6 +1,6 @@
 🛒 Super Store Sales – Data Visualization & Storytelling
+
 📊 Project Overview
-# Data-Visualization
 This dataset contains sales, profit, and product information from a fictional superstore, covering various regions and customer segments. It includes data on orders, products, quantities sold, and shipping details, making it ideal for data analysis, visualization, and machine learning projects.
 
 Key goals:
@@ -30,6 +30,7 @@ Sales, Quantity, Discount, Profit
 Power BI : For dashboard creation
 
 📌 Key Insights
+
 Some highlights uncovered through visual storytelling:
 •	📉 The Discount level significantly affects Profit margins.
 •	🌎 The West Region outperforms others in total sales but has volatile profits.
