@@ -11,7 +11,7 @@ Key goals:
 🗃️ Dataset
 Name: Super Store Sales Data
 
-Source: Kaggle / []
+Source: Kaggle /[https://github.com/shindesaloni/Task2-Data-Visualization/commit/bab30186229291744b87b4f18cbd0acfb024db38#diff-6a1b1e71b9d21e27d68c931fb6772c1fdcc8f58a1a2f0666fddeb34da03e2243]
 
 Size: ~10,000 rows
 
